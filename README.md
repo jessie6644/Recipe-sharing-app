@@ -1,11 +1,6 @@
-# CSC309H1S Recipe Web App (Course Project)
+# team36
 
-This is a fullstack app with express backend (mongodb as db and file storage) and react frontend.
-
-Deployed URL:
-**~~[https://recipe.muddy.ca](https://recipe.muddy.ca)~~**
-
-This project will no longer be deployed.
+## Deployed URL: [https://recipe.muddy.ca](https://recipe.muddy.ca)
 
 ## Phase 2
 
@@ -62,7 +57,7 @@ Backend is **complete** with following routes (**see above link for details**):
     * Get all recipe categories
     * Get all recipe diets
 
-## [Frontend Instructions (Click)](frontend/README.md)
+## [Frontend Instructions (Click)](my-app/README.md)
 
 **Please see above link for details.**
 
