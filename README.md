@@ -1,6 +1,10 @@
 # team36
 
-## Deployed URL: [https://recipe.muddy.ca](https://recipe.muddy.ca)
+This is a web app with express backend (mongodb as db and file storage) and React frontend.
+
+Deployed URL:
+**~~[https://recipe.muddy.ca](https://recipe.muddy.ca)~~**
+No longer deployed.
 
 ## Phase 2
 
